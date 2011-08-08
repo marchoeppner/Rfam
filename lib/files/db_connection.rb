@@ -1,10 +1,10 @@
 # DB Connection class
 
-Rfam_DB_ADAPTER = 'mysql'
+Rfam_DB_ADAPTER = 'mysql2'
 Rfam_DATABASE = "rfam_"
 Rfam_DB_HOST = 'localhost'
-Rfam_DB_USERNAME = ''
-Rfam_DB_PASSWORD = ''
+Rfam_DB_USERNAME = 'tools'
+Rfam_DB_PASSWORD = 'analysis'
 
 
   

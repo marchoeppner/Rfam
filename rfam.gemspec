@@ -15,10 +15,10 @@ Gem::Specification.new do |s|
 
   # If you have development dependencies, add them here
   # s.add_development_dependency "another", "= 0.9"
-  s.add_development_dependency "ruby-ensembl-api", ">=1.0"
   s.add_development_dependency "composite_primary_keys", ">=3.0"
-  s.add_development_dependency "mysql2", ">=0.1"
+  s.add_development_dependency "mysql2", ">= 0.2"
 
+  
   # The list of files to be contained in the gem
   s.files         = `git ls-files`.split("\n")
   # s.executables   = `git ls-files`.split("\n").map{|f| f =~ /^bin\/(.*)/ ? $1 : nil}.compact
@@ -29,3 +29,4 @@ Gem::Specification.new do |s|
   # For C extensions
   # s.extensions = "ext/extconf.rb"
 end
+
