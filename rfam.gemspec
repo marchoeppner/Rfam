@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.authors           = ["Marc P. Hoeppner"]
   s.email             = ["mphoeppner@gmail.com"]
-  s.homepage          = "http://github.com/marchoeppner/Bio-Toolbox"
+  s.homepage          = "http://github.com/marchoeppner/Rfam"
   s.summary           = "A simple API to a local installation of Rfam"
   s.description       = "See above..."
 

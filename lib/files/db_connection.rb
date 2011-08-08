@@ -6,7 +6,7 @@ Rfam_DB_HOST = 'localhost'
 Rfam_DB_USERNAME = ''
 Rfam_DB_PASSWORD = ''
 
-module Toolbox 
+
   
   module RfamDB
     
@@ -29,4 +29,3 @@ module Toolbox
     
   end
   
-end

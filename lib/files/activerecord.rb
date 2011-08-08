@@ -1,6 +1,6 @@
 # Table mappings
 
-module Toolbox 
+
   
   module RfamDB
     
@@ -275,5 +275,4 @@ module Toolbox
     end
     
   end
-  
-end
+
